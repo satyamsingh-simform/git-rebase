@@ -21,3 +21,7 @@ console.log("bug fixed");
 console.log('bug fixed');
 
 console.log("change made from main branch");
+
+console.log("change made from main branch");
+
+console.log('1st change from bugFix3 branch');
