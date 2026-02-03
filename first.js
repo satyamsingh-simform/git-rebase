@@ -19,3 +19,5 @@ console.log("bug fixed");
 
 //me is fixing bug
 console.log('bug fixed');
+
+console.log('1st change from bugFix3 branch');
