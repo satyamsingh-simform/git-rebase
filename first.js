@@ -16,3 +16,6 @@ console.log('latest update after push this file on github');
 
 //i am fixing bug
 console.log("bug fixed");
+
+//me is fixing bug
+console.log('bug fixed');
